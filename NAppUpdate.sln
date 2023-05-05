@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAppUpdate", "NAppUpdate.csproj", "{2839E9BE-3D34-4C52-91A7-FE3F0B3272E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAppUpdate.Framework", "NAppUpdate.Framework\NAppUpdate.Framework.csproj", "{B283D419-E562-45AF-94E5-7C7812E7B5C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2839E9BE-3D34-4C52-91A7-FE3F0B3272E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2839E9BE-3D34-4C52-91A7-FE3F0B3272E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2839E9BE-3D34-4C52-91A7-FE3F0B3272E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2839E9BE-3D34-4C52-91A7-FE3F0B3272E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B283D419-E562-45AF-94E5-7C7812E7B5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B283D419-E562-45AF-94E5-7C7812E7B5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B283D419-E562-45AF-94E5-7C7812E7B5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B283D419-E562-45AF-94E5-7C7812E7B5C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
